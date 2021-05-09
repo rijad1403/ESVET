@@ -13,7 +13,7 @@
         </p>
         <p>
             Veterinarska stanica E. S. VET d.o.o. je izgrađena 2010. godine kako bi vlasnicima kućnih ljubimaca u gradu i okolini ponudila 
-            svaku uslugu neophodnu za njihovog ljubimca - sve pod jednim krovom.
+            svaku uslugu neophodnu za njihovog ljubimca - sve pod jednim krovom. <br>
         </p>
         <img src="{{ asset('/images/cuteDog.jpg') }}" style="width: 80%;">
     </div>
